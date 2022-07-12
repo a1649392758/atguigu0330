@@ -2,4 +2,8 @@ hello world
 
 java0330
 
+<<<<<<< HEAD
 dev02提交
+=======
+提交
+>>>>>>> dev01
